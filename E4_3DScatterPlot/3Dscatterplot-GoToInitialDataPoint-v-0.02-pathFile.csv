@@ -1,0 +1,36 @@
+Agent ID,0
+Number of waypoints,2
+Point-0,0,0.04,0.04,0
+Point-1,1.97143,0.04,0.04,-0.0394286
+Agent ID,1
+Number of waypoints,2
+Point-0,0,0.04,0,0
+Point-1,1.71254,0.04,0,-0.0342507
+Agent ID,2
+Number of waypoints,2
+Point-0,0,0.04,-0.04,0
+Point-1,1.50542,0.04,-0.04,-0.0301084
+Agent ID,3
+Number of waypoints,2
+Point-0,0,0,0.04,0
+Point-1,2,0,0.04,0.04
+Agent ID,4
+Number of waypoints,2
+Point-0,0,0,0,0
+Point-1,0.56816,0,0,0.0113632
+Agent ID,5
+Number of waypoints,2
+Point-0,0,0,-0.04,0
+Point-1,0.0970395,0,-0.04,-0.00194079
+Agent ID,6
+Number of waypoints,2
+Point-0,0,-0.04,0.04,0
+Point-1,1.35527,-0.04,0.04,-0.0271053
+Agent ID,7
+Number of waypoints,2
+Point-0,0,-0.04,0,0
+Point-1,2.3684,-0.04,0,-0.047368
+Agent ID,8
+Number of waypoints,2
+Point-0,0,-0.04,-0.04,0
+Point-1,3,-0.04,-0.04,-0.06

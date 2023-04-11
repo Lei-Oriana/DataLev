@@ -1,0 +1,16 @@
+Agent ID,0
+Number of waypoints,2
+Point-0,0,0,-0.045,0
+Point-1,0.725,0.0101,-0.0406,0
+Agent ID,1
+Number of waypoints,2
+Point-0,0,0,-0.015,0
+Point-1,1.195,-0.0159,-0.023,0
+Agent ID,2
+Number of waypoints,2
+Point-0,0,0,0.015,0
+Point-1,1.015,0.014,0.0213,0
+Agent ID,3
+Number of waypoints,2
+Point-0,0,0,0.045,0
+Point-1,0.62,0.0066,0.0508,0
